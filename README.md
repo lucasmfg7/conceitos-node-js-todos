@@ -73,3 +73,13 @@ A rota deve receber, pelo header da requisição, uma propriedade `username` con
 ### DELETE `/todos/:id`
 
 A rota deve receber, pelo header da requisição, uma propriedade `username` contendo o username do usuário e excluir o todo que possuir um `id` igual ao `id` presente nos parâmetros da rota.
+
+### Autor
+
+<img alt="lucasmfg7" title="lucasmfg7" src="https://avatars.githubusercontent.com/u/95872678?v=4" width="100px" />
+
+<br>
+
+Feito com 💙 por Lucas Fernandes
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Lucas_Fernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-fernandes-b703a3218/)](https://www.linkedin.com/in/lucas-fernandes-b703a3218/)
